@@ -8,8 +8,12 @@ jpg
 
 ![star](https://user-images.githubusercontent.com/102798071/168591253-164094a2-a4e7-4331-b842-1995847b62d4.jpg) 
 
-
+externallink
 https://en.wikipedia.org/wiki/Gardening
 
 
 ![rose](https://user-images.githubusercontent.com/102798071/168596211-34ff4962-ee5c-49aa-9a3b-9123ff38c2ac.jpg)
+
+internal links
+
+
