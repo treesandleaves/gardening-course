@@ -16,6 +16,6 @@ https://en.wikipedia.org/wiki/Gardening
 
 internal links
 
-https://github.com/treesandleaves/gardening-course/blob/main/flower%20pictures/sunflower.jpg
+[sunflower](https://github.com/treesandleaves/gardening-course/blob/main/flower%20pictures/sunflower.jpg)
 
 https://github.com/treesandleaves/gardening-course/blob/main/taking%20care%20of%20trees/how%20to%20take%20care%20of%20weeping%20willows.pdf
