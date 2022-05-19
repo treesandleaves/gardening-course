@@ -20,5 +20,5 @@ Gardening ranges in scale from fruit orchards, to long boulevard plantings with 
 
 [sunflower](https://github.com/treesandleaves/gardening-course/blob/main/flower%20pictures/sunflower.jpg)
 
-[take care of weeping willows](taking care of trees/how to take care of weeping willows.pdf)
+[take care of weeping willows](https://github.com/treesandleaves/gardening-course/blob/main/taking%20care%20of%20trees/how%20to%20take%20care%20of%20weeping%20willows.pdf)
 
